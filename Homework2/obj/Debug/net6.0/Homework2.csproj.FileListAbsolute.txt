@@ -1,0 +1,15 @@
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\bin\Debug\net6.0\Homework2.exe
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\bin\Debug\net6.0\Homework2.deps.json
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\bin\Debug\net6.0\Homework2.dll
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\bin\Debug\net6.0\Homework2.pdb
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.dll
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.pdb
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+D:\Учеба и т.д\Инженер по тестированию\Знакомство с языками программирования\1 семинар\C#Lesson1\Homework2\obj\Debug\net6.0\ref\Homework2.dll
